@@ -5,6 +5,32 @@ class bannerapp{
         System.out.println("   *       * ");
         System.out.println("   *       * ");
         System.out.println("   *   *   *   ");
+
+        System.out.println("\n");
+
+        System.out.println("   *   *   *    ");
+        System.out.println("   *       * ");
+        System.out.println("   *       * ");
+        System.out.println("   *   *   *   ");
+
+        System.out.println("\n");
+        System.out.println("   *    *     ");
+        System.out.println("   *        * ");
+        System.out.println("   *        * ");
+        System.out.println("   *    *     ");
+
+        System.out.println("\n");
+        System.out.println("   *    *     ");
+        System.out.println("   *        * ");
+        System.out.println("   *        * ");
+        System.out.println("   *    *     ");
+        System.out.println("   *");
+        System.out.println("   *");
+        System.out.println("   *");
+
+
+
+
         System.out.println("banner app complete"        );
         
     
