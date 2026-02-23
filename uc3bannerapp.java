@@ -1,4 +1,4 @@
-class bannerapp{
+class uc3bannerapp{
     public static void main(String[] args){
         System.out.println("Welcome to Banner App!");
         System.out.println("   *   *   *    ");
@@ -28,10 +28,7 @@ class bannerapp{
         System.out.println("   *");
         System.out.println("   *");
 
-
-
-
-        System.out.println("banner app complete"        );
+        System.out.println("banner app complete");
         
     
     }
