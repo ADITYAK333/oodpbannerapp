@@ -1,38 +1,7 @@
-class bannerapp{
-    public static void main(String[] args){
-        System.out.println("\n");
-        System.out.println("   *   *   *    ");
-        System.out.println("   *       * ");
-        System.out.println("   *       * ");
-        System.out.println("   *   *   *   ");
 
-        System.out.println("\n");
+public class UC1 {
 
-        System.out.println("   *   *   *    ");
-        System.out.println("   *       * ");
-        System.out.println("   *       * ");
-        System.out.println("   *   *   *   ");
-
-        System.out.println("\n");
-        System.out.println("   *    *     ");
-        System.out.println("   *        * ");
-        System.out.println("   *        * ");
-        System.out.println("   *    *     ");
-
-        System.out.println("\n");
-        System.out.println("   *    *     ");
-        System.out.println("   *        * ");
-        System.out.println("   *        * ");
-        System.out.println("   *    *     ");
-        System.out.println("   *");
-        System.out.println("   *");
-        System.out.println("   *");
-
-
-
-
-        System.out.println("banner app complete"        );
-        
-    
+    public static void main(String[] args) {
+        System.out.println("OOPS");
     }
 }
